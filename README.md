@@ -1,4 +1,4 @@
-# Mash-Trainer
+# Mash Trainer
 Unity Application
 ___
 
@@ -19,7 +19,7 @@ button mashing by gauging your Mash-Per-Second (MPS).
 1. Extract file to desired folder
 3. Double-click **Mash Trainer.exe** in mash_trainer folder
 
-## How to Play
+## Using Mash Trainer
 ###### Step 1:
 Click **Start** button to begin count down
 ###### Step 2:
@@ -45,6 +45,14 @@ Mash Trainer is built upon the simple idea to press a button and increment a cou
         }//end if seconds > 0.0f
     }//end mash Button
 ```
+## FAQs
+* Why should I care about my MPS?
+  * Mashing is primarily used in video games. Certain games may require the player to press a button rapidly and your MPS can directly
+    correlate to your performance in that section of the game.
+* Can I use Mash Trainer on my mobile device?
+  * The current build is for computers with Windows/Macintosh but a mobile build is in the works.
+* Can I use a controller or my keyboard to mash?
+  * Input devices are currently being tested for the next build.
 ## Troubleshooting
 Downloading the ZIP file requires a [google](https://support.google.com/accounts/answer/27441?hl=en) account
 
