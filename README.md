@@ -2,9 +2,8 @@
 Unity Application
 ___
 
-## What is Mashing?
-Button Mashing is a term used to indicate pressing a button quickly. Mash Trainer is an application that will help you achieve better 
-button mashing by gauging your Mash-Per-Second (MPS).
+## What is Mash Trainer? 
+Mash Trainer is an application that will help you achieve better button mashing by gauging your Mash-Per-Second (MPS).
 
 ## What do I need?
 ###### 1. Computer with Windows/Macintosh
@@ -46,9 +45,11 @@ Mash Trainer is built upon the simple idea to press a button and increment a cou
     }//end mash Button
 ```
 ## FAQs
-* Why should I care about my MPS?
-  * Mashing is primarily used in video games. Certain games may require the player to press a button rapidly and your MPS can directly
-    correlate to your performance in that section of the game.
+* What is button mashing?
+  * Button Mashing is a technique, primarily utilized by video game players, wherein a button is pressed repeatedly in a rapid fashion.
+* What is MPS?
+  * MPS is an acronym for Mash Per Second and is calculated by dividing your total number of button presses by the number of seconds in
+    the countdown.
 * Can I use Mash Trainer on my mobile device?
   * The current build is for computers with Windows/Macintosh but a mobile build is in the works.
 * Can I use a controller or my keyboard to mash?
