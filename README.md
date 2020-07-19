@@ -54,6 +54,7 @@ Mash Trainer is built upon the simple idea to press a button and increment a cou
   * The current build is for computers with Windows/Macintosh but a mobile build is in the works.
 * Can I use a controller or my keyboard to mash?
   * Input devices are currently being tested for the next build.
+
 ## Troubleshooting
 Downloading the ZIP file requires a [google](https://support.google.com/accounts/answer/27441?hl=en) account
 
